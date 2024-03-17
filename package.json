@@ -1,0 +1,9 @@
+{
+  "name": "TabDL",
+  "version": "1.0.0",
+  "description": "Chrome extension for downloading data from tabs",
+  "main": "index.js",
+  "author": "jyjokokk",
+  "license": "MIT",
+  "private": false
+}
