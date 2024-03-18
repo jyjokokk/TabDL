@@ -2,16 +2,37 @@
 
 Chrome extension for downloading content from tabs.
 
-## Roadmap
+## Getting Started
 
-1. Copy list of all tabs to clipboard
-  1. Remove duplicate tabs
-2. Download list of tabs to a text file
-  1. Downloads to /tmp/ with generated file name
-  2. Allow choosing the filename and save location
-3. Triggers a local application which uses the tab data as configured
-  1. For example, NodeJS application which fetches the HTML from provided URLs
-  and executes actions based on the content.
-  2. Extension could send pre-parses data points instead of URLs
+1. Clone the repo
+2. `cd TabDL` and run `yarn install`
 
+### Prerequisites
 
+* NodeJS
+* Yarn
+
+<!--
+### Installation
+
+A step by step guide that will tell you how to get the development environment up and running.
+
+```
+$ First step
+$ Another step
+$ Final step
+``` -->
+<!--
+## Usage
+
+A few examples of useful commands and/or tasks.
+
+```
+$ First example
+$ Second example
+$ And keep this in mind
+``` -->
+<!--
+## Deployment
+
+Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special). -->
